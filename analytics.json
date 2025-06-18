@@ -1,0 +1,518 @@
+{
+  "totalPosts": 583,
+  "totalLikes": 105902,
+  "totalComments": 2834,
+  "totalViews": 781802,
+  "avgEngagementRate": 9.847759360349404,
+  "avgLikesPerPost": 181.6500857632933,
+  "avgCommentsPerPost": 4.861063464837049,
+  "avgViewsPerPost": 5011.551282051282,
+  "videoToImageRatio": 0.36533957845433257,
+  "topHashtags": [
+    {
+      "hashtag": "ksdae",
+      "count": 303,
+      "avgEngagement": 212.1947194719472
+    },
+    {
+      "hashtag": "gunungtambora",
+      "count": 295,
+      "avgEngagement": 213.91186440677967
+    },
+    {
+      "hashtag": "ayoketamannasional",
+      "count": 283,
+      "avgEngagement": 225.02473498233215
+    },
+    {
+      "hashtag": "tamboranationalpark",
+      "count": 268,
+      "avgEngagement": 231.65298507462686
+    },
+    {
+      "hashtag": "dompu",
+      "count": 266,
+      "avgEngagement": 229.13533834586465
+    },
+    {
+      "hashtag": "bima",
+      "count": 261,
+      "avgEngagement": 230.9272030651341
+    },
+    {
+      "hashtag": "klhk",
+      "count": 259,
+      "avgEngagement": 94.47876447876448
+    },
+    {
+      "hashtag": "ayoketamannasionaltambora",
+      "count": 248,
+      "avgEngagement": 255.9798387096774
+    },
+    {
+      "hashtag": "pendakiindonesia",
+      "count": 238,
+      "avgEngagement": 267.28991596638656
+    },
+    {
+      "hashtag": "kemenlhk",
+      "count": 224,
+      "avgEngagement": 105.09821428571429
+    }
+  ],
+  "topLocations": [
+    {
+      "location": "Taman Nasional Tambora",
+      "count": 99,
+      "avgEngagement": 159.64646464646464
+    },
+    {
+      "location": "Gunung Tambora",
+      "count": 84,
+      "avgEngagement": 92.88095238095238
+    },
+    {
+      "location": "Taman Nasional Gunung Tambora",
+      "count": 12,
+      "avgEngagement": 124.08333333333333
+    },
+    {
+      "location": "Dompu, Nusa Tenggara Barat, Indonesia",
+      "count": 11,
+      "avgEngagement": 93.45454545454545
+    },
+    {
+      "location": "Gunung Tambora NTB",
+      "count": 4,
+      "avgEngagement": 1096.25
+    },
+    {
+      "location": "West Nusa Tenggara",
+      "count": 3,
+      "avgEngagement": 611.6666666666666
+    },
+    {
+      "location": "Doro Ncanga Gunung Tambora",
+      "count": 3,
+      "avgEngagement": 606.6666666666666
+    },
+    {
+      "location": "BL777 Jackpot Legends",
+      "count": 3,
+      "avgEngagement": 82
+    },
+    {
+      "location": "Tambora Mountain",
+      "count": 2,
+      "avgEngagement": 268.5
+    },
+    {
+      "location": "Dusun Pancasila Desa Tambora",
+      "count": 2,
+      "avgEngagement": 130
+    },
+    {
+      "location": "Alun-alun pendopo Kabupaten Boyolali, Kemiri",
+      "count": 2,
+      "avgEngagement": 88.5
+    },
+    {
+      "location": "Puncak Gunung Tambora",
+      "count": 1,
+      "avgEngagement": 325
+    },
+    {
+      "location": "Doroncanga,sarae Nduha Dompu.",
+      "count": 1,
+      "avgEngagement": 982
+    },
+    {
+      "location": "Puncak G. Tambora 2851 MDPL",
+      "count": 1,
+      "avgEngagement": 444
+    },
+    {
+      "location": "Padang Savana Doroncanga, Dompu Ntb",
+      "count": 1,
+      "avgEngagement": 8403
+    },
+    {
+      "location": "Padang Savana Tambora Mountain",
+      "count": 1,
+      "avgEngagement": 258
+    },
+    {
+      "location": "Bima-Nusa Tenggara Barat",
+      "count": 1,
+      "avgEngagement": 132
+    },
+    {
+      "location": "Indonesia",
+      "count": 1,
+      "avgEngagement": 230
+    },
+    {
+      "location": "Tambora",
+      "count": 1,
+      "avgEngagement": 15
+    },
+    {
+      "location": "Gunung Tambora, Dompu NTB",
+      "count": 1,
+      "avgEngagement": 2021
+    },
+    {
+      "location": "Air Terjun Bidadari Oi Marai Tambora",
+      "count": 1,
+      "avgEngagement": 55
+    },
+    {
+      "location": "Khdtk Rarung",
+      "count": 1,
+      "avgEngagement": 61
+    },
+    {
+      "location": "Taman Nasional Gunung Rinjani",
+      "count": 1,
+      "avgEngagement": 90
+    },
+    {
+      "location": "KPPN Bima",
+      "count": 1,
+      "avgEngagement": 54
+    },
+    {
+      "location": "Institut Teknologi Bandung (ITB)",
+      "count": 1,
+      "avgEngagement": 68
+    },
+    {
+      "location": "Mataram",
+      "count": 1,
+      "avgEngagement": 42
+    }
+  ],
+  "topUsers": [
+    {
+      "username": "btn_tambora_official",
+      "posts": 512,
+      "totalEngagement": 74199
+    },
+    {
+      "username": "fbianabi",
+      "posts": 3,
+      "totalEngagement": 8432
+    },
+    {
+      "username": "harleysastha",
+      "posts": 8,
+      "totalEngagement": 4599
+    },
+    {
+      "username": "bodinksvriadi",
+      "posts": 2,
+      "totalEngagement": 2729
+    },
+    {
+      "username": "dana_tambora",
+      "posts": 6,
+      "totalEngagement": 2684
+    },
+    {
+      "username": "nikhenmoko",
+      "posts": 3,
+      "totalEngagement": 2334
+    },
+    {
+      "username": "kemenhut",
+      "posts": 1,
+      "totalEngagement": 2281
+    },
+    {
+      "username": "backpackerlensa",
+      "posts": 1,
+      "totalEngagement": 2021
+    },
+    {
+      "username": "genpilomboksumbawa",
+      "posts": 1,
+      "totalEngagement": 982
+    },
+    {
+      "username": "guide_tambora",
+      "posts": 4,
+      "totalEngagement": 876
+    },
+    {
+      "username": "tamboratrekking.organizer",
+      "posts": 3,
+      "totalEngagement": 653
+    },
+    {
+      "username": "cabinadventure.id",
+      "posts": 6,
+      "totalEngagement": 638
+    },
+    {
+      "username": "petaksawah",
+      "posts": 2,
+      "totalEngagement": 626
+    },
+    {
+      "username": "faisal_backpecker",
+      "posts": 2,
+      "totalEngagement": 622
+    },
+    {
+      "username": "latifazahro15",
+      "posts": 1,
+      "totalEngagement": 498
+    },
+    {
+      "username": "mbull_embull",
+      "posts": 1,
+      "totalEngagement": 444
+    },
+    {
+      "username": "pendaki_gendutzzz10",
+      "posts": 1,
+      "totalEngagement": 365
+    },
+    {
+      "username": "basecamp_tambora_pancasila",
+      "posts": 3,
+      "totalEngagement": 347
+    },
+    {
+      "username": "lemboade_tambora",
+      "posts": 2,
+      "totalEngagement": 338
+    },
+    {
+      "username": "johanrosihan",
+      "posts": 1,
+      "totalEngagement": 325
+    },
+    {
+      "username": "the.aiyynunnn",
+      "posts": 2,
+      "totalEngagement": 302
+    },
+    {
+      "username": "fan_dy__",
+      "posts": 1,
+      "totalEngagement": 296
+    },
+    {
+      "username": "wahyubolah",
+      "posts": 1,
+      "totalEngagement": 290
+    },
+    {
+      "username": "anggasanggili8",
+      "posts": 2,
+      "totalEngagement": 286
+    },
+    {
+      "username": "btn_gn_rinjani",
+      "posts": 1,
+      "totalEngagement": 235
+    },
+    {
+      "username": "jess_cbd",
+      "posts": 1,
+      "totalEngagement": 230
+    },
+    {
+      "username": "samsulmaarif93",
+      "posts": 3,
+      "totalEngagement": 196
+    },
+    {
+      "username": "d_n_a_18",
+      "posts": 1,
+      "totalEngagement": 178
+    },
+    {
+      "username": "kriswoyo82",
+      "posts": 1,
+      "totalEngagement": 135
+    },
+    {
+      "username": "asriadin4",
+      "posts": 1,
+      "totalEngagement": 132
+    },
+    {
+      "username": "arasventure",
+      "posts": 1,
+      "totalEngagement": 120
+    },
+    {
+      "username": "arifin_tagara",
+      "posts": 1,
+      "totalEngagement": 119
+    },
+    {
+      "username": "toreanesia.adventure",
+      "posts": 1,
+      "totalEngagement": 108
+    },
+    {
+      "username": "190bima__",
+      "posts": 1,
+      "totalEngagement": 57
+    },
+    {
+      "username": "deny_r_tanamanusela",
+      "posts": 1,
+      "totalEngagement": 35
+    },
+    {
+      "username": "0ffau",
+      "posts": 1,
+      "totalEngagement": 24
+    }
+  ],
+  "engagementByHour": [
+    {
+      "hour": 0,
+      "avgEngagement": 24
+    },
+    {
+      "hour": 1,
+      "avgEngagement": 290
+    },
+    {
+      "hour": 2,
+      "avgEngagement": 109
+    },
+    {
+      "hour": 3,
+      "avgEngagement": 60.5
+    },
+    {
+      "hour": 4,
+      "avgEngagement": 210.33333333333334
+    },
+    {
+      "hour": 5,
+      "avgEngagement": 35.666666666666664
+    },
+    {
+      "hour": 6,
+      "avgEngagement": 1190.5
+    },
+    {
+      "hour": 7,
+      "avgEngagement": 135.08
+    },
+    {
+      "hour": 8,
+      "avgEngagement": 315.10869565217394
+    },
+    {
+      "hour": 9,
+      "avgEngagement": 139.21875
+    },
+    {
+      "hour": 10,
+      "avgEngagement": 125.38461538461539
+    },
+    {
+      "hour": 11,
+      "avgEngagement": 202.69230769230768
+    },
+    {
+      "hour": 12,
+      "avgEngagement": 232.05128205128204
+    },
+    {
+      "hour": 13,
+      "avgEngagement": 97.25396825396825
+    },
+    {
+      "hour": 14,
+      "avgEngagement": 33.78688524590164
+    },
+    {
+      "hour": 15,
+      "avgEngagement": 167.54545454545453
+    },
+    {
+      "hour": 16,
+      "avgEngagement": 351.25
+    },
+    {
+      "hour": 17,
+      "avgEngagement": 75.68
+    },
+    {
+      "hour": 18,
+      "avgEngagement": 265.9230769230769
+    },
+    {
+      "hour": 19,
+      "avgEngagement": 94.62162162162163
+    },
+    {
+      "hour": 20,
+      "avgEngagement": 238.35714285714286
+    },
+    {
+      "hour": 21,
+      "avgEngagement": 113.1
+    },
+    {
+      "hour": 22,
+      "avgEngagement": 89.625
+    },
+    {
+      "hour": 23,
+      "avgEngagement": 55
+    }
+  ],
+  "engagementByDay": [
+    {
+      "day": "Wednesday",
+      "avgEngagement": 159.48333333333332
+    },
+    {
+      "day": "Thursday",
+      "avgEngagement": 203.6219512195122
+    },
+    {
+      "day": "Saturday",
+      "avgEngagement": 311.23333333333335
+    },
+    {
+      "day": "Friday",
+      "avgEngagement": 100.2752808988764
+    },
+    {
+      "day": "Tuesday",
+      "avgEngagement": 208.30434782608697
+    },
+    {
+      "day": "Sunday",
+      "avgEngagement": 229.02083333333334
+    },
+    {
+      "day": "Monday",
+      "avgEngagement": 239.3139534883721
+    }
+  ],
+  "contentTypePerformance": {
+    "video": {
+      "count": 156,
+      "avgLikes": 222.00641025641025,
+      "avgComments": 6.243589743589744,
+      "avgViews": 5011.551282051282
+    },
+    "image": {
+      "count": 427,
+      "avgLikes": 166.9063231850117,
+      "avgComments": 4.355971896955504
+    }
+  }
+}
